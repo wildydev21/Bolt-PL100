@@ -1,4 +1,4 @@
-# Bolt Arion PL100 Openwrt
+# Bolt Arion PL100 Openwrt 21.02.2 Lite
 
 Information 
 ```
