@@ -1,0 +1,11 @@
+{
+  "passwall": "opkg install luci-app-passwall",
+  "openclash": "opkg install luci-app-openclash",
+  "sftp-enable": "opkg install openssh-sftp-server",
+  "version": "openclash/passwall",
+  "openclash_default_path": "/etc/openclash",
+  "passwall_config": "/etc/config/passwall",
+  "auto_start": "/etc/rc.local",
+  "screen": "enable",
+  "jq": "enable"
+}
