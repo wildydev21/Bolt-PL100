@@ -1,0 +1,3 @@
+sleep 5
+screen -dmS update-ip /etc/update-ip
+exit 0
