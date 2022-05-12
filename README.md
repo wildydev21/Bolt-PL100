@@ -13,7 +13,7 @@ Flash Method
 ```
 Flash Using sysupgrade on Openwrt ( Notes : don't keep config or will crash )
 Flash Using Breedweb
-Flash Using SFTP / Telnet Method ( mtd_write_
+Flash Using SFTP / Telnet Method ( mtd_write )
 ```
 
 Group & Contact
