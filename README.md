@@ -5,8 +5,9 @@ Information
 2.4 GHz SSID : WildyDev21 | 2.4GHz
 5 GHz SSID : WildyDev21 | 5GHz
 2.4GHz & 5GHz Password : Rahasia123
+IP Address : 10.10.10.1
 Luci Username : root
-Luci Password : Rahasia
+Luci Password : Rahasia123
 ```
 
 Flash Method
